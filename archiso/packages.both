@@ -483,7 +483,7 @@ arcolinux-arc-themes-git
 arcolinux-bin-git
 #arcolinux-bspwm-git
 #arcolinux-common-git
-arcolinux-config-cinnamon-git
+#arcolinux-config-cinnamon-git
 #arcolinux-config-git
 #arcolinux-config-gnome-git
 #arcolinux-config-plasma-git
@@ -493,8 +493,8 @@ arcolinux-conky-collection-git
 #arcolinux-geany-git
 #arcolinux-i3wm-git
 arcolinux-keyring
-#arcolinux-lightdm-gtk-greeter
-#arcolinux-lightdm-gtk-greeter-settings
+arcolinux-lightdm-gtk-greeter
+arcolinux-lightdm-gtk-greeter-settings
 #arcolinux-local-git
 arcolinux-neofetch-git
 #arcolinux-neofetch-ascii-git
