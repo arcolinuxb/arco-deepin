@@ -446,7 +446,7 @@ downgrade
 font-manager
 glxinfo
 #google-talkplugin
-grub-customizer
+#grub-customizer
 hardcode-fixer-git
 inxi
 #menulibre
