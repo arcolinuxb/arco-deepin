@@ -537,6 +537,7 @@ xfce4-panel
 #Desktop specific
 deepin
 deepin-extra
+dtkwidget
 
 #https://github.com/linuxdeepin/developer-center/issues/544
 #adding linux-headers for error at boot - deepin-anything seems to be responsible
