@@ -346,7 +346,7 @@ lsb-release
 mlocate
 nomacs
 p7zip
-plank
+#plank
 playerctl
 polkit
 polkit-gnome
@@ -487,7 +487,8 @@ arcolinux-bin-git
 #arcolinux-bspwm-git
 #arcolinux-common-git
 #arcolinux-config-cinnamon-git
-arcolinux-config-git
+arcolinux-config-deepin-git
+#arcolinux-config-git
 #arcolinux-config-gnome-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
@@ -519,10 +520,10 @@ arcolinux-mirrorlist-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
 arcolinux-pipemenus-git
-arcolinux-plank-git
-arcolinux-plank-themes-git
+#arcolinux-plank-git
+#arcolinux-plank-themes-git
 #arcolinux-polybar-git
-arcolinux-qt5-git
+#arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 #arcolinux-rofi-git
 #arcolinux-rofi-themes-git
