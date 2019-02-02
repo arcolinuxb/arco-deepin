@@ -299,8 +299,8 @@ gtk-engine-murrine
 #themes
 adapta-gtk-theme
 arc-gtk-theme
-kvantum-qt5
-kvantum-theme-arc
+#kvantum-qt5
+#kvantum-theme-arc
 #numix-gtk-theme
 
 #utilities
@@ -500,7 +500,7 @@ arcolinux-fonts-git
 arcolinux-geany-git
 #arcolinux-i3wm-git
 arcolinux-keyring
-arcolinux-kvantum-git
+#arcolinux-kvantum-git
 #arcolinux-kvantum-plasma-git
 #arcolinux-lightdm-gtk-greeter
 #arcolinux-lightdm-gtk-greeter-plasma
@@ -523,7 +523,7 @@ arcolinux-pipemenus-git
 #arcolinux-plank-git
 #arcolinux-plank-themes-git
 #arcolinux-polybar-git
-#arcolinux-qt5-git
+arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 #arcolinux-rofi-git
 #arcolinux-rofi-themes-git
