@@ -179,7 +179,7 @@ nss-mdns
 mobile-broadband-provider-info
 modemmanager
 networkmanager
-network-manager-applet
+#network-manager-applet
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
