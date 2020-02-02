@@ -775,7 +775,7 @@ thunar-media-tags-plugin
 #xfce4-whiskermenu-plugin
 #xfce4-xkb-plugin
 
-xfce4-panel-profiles
+#xfce4-panel-profiles
 
 ###########################################################################
 #                                ISO SPECIFIC
@@ -786,3 +786,5 @@ deepin
 deepin-extra
 dtkwidget
 linux-headers
+#on the live usb and removed via calamares
+network-manager-applet
