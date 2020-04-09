@@ -339,9 +339,9 @@ polkit
 python2-dbus
 python2-xdg
 #qt4
-#qt5ct
+qt5ct
 qt5-styleplugins
-#qt5-tools
+qt5-tools
 qt5-webkit
 #powertop
 reflector
@@ -724,20 +724,20 @@ lightdm
 
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
-exo
+#exo
 #garcon
 thunar
 thunar-volman
 tumbler
 #xfce4-appfinder
-xfce4-panel
+#xfce4-panel
 #xfce4-power-manager
-xfce4-session
+#xfce4-session
 #xfce4-settings
 #xfce4-terminal
 #xfconf
-xfdesktop
-xfwm4
+#xfdesktop
+#xfwm4
 #xfwm4-themes
 
 ### xfce4-goodies group content
@@ -745,7 +745,7 @@ xfwm4
 #mousepad
 #orage
 #parole
-ristretto
+#ristretto
 thunar-archive-plugin
 thunar-media-tags-plugin
 #xfburn
@@ -794,3 +794,4 @@ dtkwidget
 linux-headers
 #on the live usb and removed via calamares
 network-manager-applet
+qt5
