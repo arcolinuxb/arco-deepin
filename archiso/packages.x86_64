@@ -796,3 +796,4 @@ linux-headers
 #on the live usb and removed via calamares
 network-manager-applet
 qt5
+onboard
