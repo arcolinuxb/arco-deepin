@@ -340,9 +340,9 @@ python2-dbus
 python2-xdg
 #qt4
 #qt5ct
-qt5-styleplugins
+#qt5-styleplugins
 #qt5-tools
-qt5-webkit
+#qt5-webkit
 #powertop
 reflector
 #redshift
@@ -496,7 +496,7 @@ arcolinux-pipemenus-git
 #arcolinux-plank-themes-git
 #arcolinux-plasma-kservices-git
 #arcolinux-polybar-git
-arcolinux-qt5-git
+#arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 #arcolinux-rofi-git
 #arcolinux-rofi-themes-git
@@ -795,5 +795,4 @@ dtkwidget
 linux-headers
 #on the live usb and removed via calamares
 network-manager-applet
-qt5
 onboard
