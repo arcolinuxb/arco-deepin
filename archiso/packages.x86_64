@@ -46,6 +46,7 @@ jfsutils
 linux
 linux-atm
 linux-firmware
+linux-headers
 logrotate
 lsscsi
 lvm2
@@ -844,7 +845,6 @@ thunar-media-tags-plugin
 deepin
 deepin-extra
 dtkwidget
-linux-headers
 #on the live usb and removed via calamares
 network-manager-applet
 onboard
