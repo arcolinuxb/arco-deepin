@@ -29,7 +29,7 @@ echo
 	desktop="deepin"
 	dmDesktop="deepin"
 
-	arcolinuxVersion='v21.03.9'
+	arcolinuxVersion='v21.03.10'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
