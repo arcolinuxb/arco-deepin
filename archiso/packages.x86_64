@@ -212,7 +212,7 @@ pulseaudio-alsa
 pavucontrol
 
 ###bluetooth
-blueberry
+#blueberry
 bluez
 bluez-libs
 bluez-utils
@@ -299,7 +299,7 @@ numlockx
 scrot
 #simplescreenrecorder
 termite
-variety
+#variety
 #vlc
 
 ###conky
@@ -583,8 +583,8 @@ arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
 arcolinux-tweak-tool-git
-arcolinux-variety-git
-arcolinux-variety-autostart-git
+#arcolinux-variety-git
+#arcolinux-variety-autostart-git
 #arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
@@ -984,4 +984,4 @@ onboard
 #deepin-terminal
 #deepin-voice-note
 
-deepin-kwin
+#deepin-kwin
