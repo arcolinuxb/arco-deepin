@@ -936,7 +936,7 @@ thunar-media-tags-plugin
 #Desktop specific
 deepin
 deepin-extra
-dtkwidget
+#dtkwidget
 #on the live usb and removed via calamares
 network-manager-applet
 onboard
