@@ -398,7 +398,7 @@ wmctrl
 xapp
 xdo
 xdotool
-xdg-desktop-portal-gtk
+#xdg-desktop-portal-gtk
 #yt-dlp
 #youtube-dl
 zenity
