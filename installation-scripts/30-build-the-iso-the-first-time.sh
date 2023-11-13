@@ -27,7 +27,7 @@ echo
 	#First letter of desktop is small letter
 
 	desktop="deepin"
-	dmDesktop="deepin"
+	dmDesktop="dde-x11"
 
 	arcolinuxVersion='v23.12.02'
 
