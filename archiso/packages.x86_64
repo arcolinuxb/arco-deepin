@@ -580,7 +580,7 @@ arcolinux-zsh-git
 #arcolinux-cinnamon-git
 #arcolinux-cutefish-git
 #arcolinux-cwm-git
-#arcolinux-deepin-git
+arcolinux-deepin-git
 #arcolinux-dk-git
 #arcolinux-dwm-git
 #arcolinux-dwm-slstatus-git
