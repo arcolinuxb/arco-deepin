@@ -947,8 +947,10 @@ onboard
 #if conflicts in the group like in 10/2020 we use these
 #https://archlinux.org/groups/x86_64/deepin/
 
+deepin-anything-dkms
+
 deepin-account-faces
-deepin-anything
+#deepin-anything
 deepin-api
 deepin-app-services
 deepin-appearance
@@ -964,7 +966,7 @@ deepin-file-manager
 deepin-gtk-theme
 deepin-icon-theme
 deepin-image-viewer
-deepin-launcher
+#deepin-launcher
 deepin-menu
 deepin-network-core
 deepin-network-utils
