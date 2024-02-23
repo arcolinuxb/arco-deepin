@@ -93,7 +93,7 @@ reflector
 reiserfsprogs
 rp-pppoe
 rsync
-rxvt-unicode-terminfo
+#rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
@@ -246,7 +246,7 @@ poppler-qt5
 #chromium
 #darktable
 #deadbeef
-dmenu
+#dmenu
 #evolution
 feh
 firefox
@@ -302,15 +302,15 @@ ttf-ubuntu-font-family
 
 ###themes
 #adapta-gtk-theme
-arc-gtk-theme
-arc-darkest-theme-git
+#arc-gtk-theme
+#arc-darkest-theme-git
 #kvantum-qt5-git
 #kvantum-qt6-git
 #openbox-arc-git
 
 ###utilities
 arandr
-asciinema
+#asciinema
 bash-completion
 #baobab
 bat
@@ -338,7 +338,7 @@ gparted
 #gtop
 hardinfo-gtk3
 #hddtemp
-htop
+#htop
 #hunspell
 #hunspell-en_US
 hw-probe
@@ -357,7 +357,7 @@ oh-my-zsh-git
 p7zip
 pkgfile
 #plank
-playerctl
+#playerctl
 polkit
 #polkit-gnome
 #python2-dbus
@@ -370,10 +370,10 @@ polkit
 #powertop
 ripgrep
 #rofi
-rxvt-unicode
+#rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 tlp
@@ -388,8 +388,8 @@ w3m
 webkit2gtk
 wmctrl
 xapp
-xdo
-xdotool
+#xdo
+#xdotool
 #xdg-desktop-portal-gtk
 #yt-dlp
 #youtube-dl
@@ -416,8 +416,8 @@ bibata-cursor-theme-bin
 #xcursor-vanilla-dmz-aa
 
 ###fonts
-ttf-font-awesome
-ttf-ms-fonts
+#ttf-font-awesome
+#ttf-ms-fonts
 
 ###icons
 #faba-icon-theme-git
@@ -442,7 +442,7 @@ mkinitcpio-openswap
 alacritty
 appstream
 appstream-qt5
-archiso
+#archiso
 conky-lua-archers
 downgrade
 #font-manager
@@ -468,11 +468,11 @@ rate-mirrors-bin
 #screenkey-git
 #sublime-text-4
 #the_platinum_searcher-bin
-the_silver_searcher
+#the_silver_searcher
 #trizen
-urxvt-fullscreen
-urxvt-perls
-urxvt-resize-font-git
+#urxvt-fullscreen
+#urxvt-perls
+#urxvt-resize-font-git
 #wttr
 yad
 #yakuake
@@ -493,7 +493,7 @@ yay-bin
 arcolinux-alacritty-git
 #arcolinux-arc-kde
 arcolinux-bin-git
-#arcolinux-btop-git
+arcolinux-btop-git
 #a-candy-beauty-icon-theme-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
@@ -506,7 +506,7 @@ arcolinux-fonts-git
 #arcolinux-geany-git
 arcolinux-grub-theme-vimix-git
 #arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-gtk3-sardi-arc-git
+#arcolinux-gtk3-sardi-arc-git
 #arcolinux-gtk3-surfn-arc-git
 #arcolinux-gtk3-surfn-arc-breeze-git
 #arcolinux-gtk3-surfn-plasma-dark-git
@@ -937,6 +937,7 @@ thunar-media-tags-plugin
 #on the live usb and removed via calamares
 network-manager-applet
 onboard
+btop
 
 
 #deepin
@@ -947,10 +948,9 @@ onboard
 #if conflicts in the group like in 10/2020 we use these
 #https://archlinux.org/groups/x86_64/deepin/
 
-deepin-anything-dkms
-
 deepin-account-faces
-#deepin-anything
+deepin-anything
+deepin-anything-dkms
 deepin-api
 deepin-app-services
 deepin-appearance
@@ -966,7 +966,6 @@ deepin-file-manager
 deepin-gtk-theme
 deepin-icon-theme
 deepin-image-viewer
-#deepin-launcher
 deepin-menu
 deepin-network-core
 deepin-network-utils
@@ -1004,6 +1003,7 @@ deepin-draw
 deepin-editor
 deepin-font-manager
 deepin-grand-search
+deepin-kwin
 deepin-movie
 deepin-music
 deepin-picker
@@ -1013,8 +1013,6 @@ deepin-screen-recorder
 deepin-screensaver-pp
 deepin-terminal
 deepin-voice-note
-
-#deepin-kwin
 
 ## chaotics-aur
 #flat-remix
